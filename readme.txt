@@ -3,3 +3,9 @@
 33333333
 hsc
 hsc01
+hsc02
+hsc03
+hsc04
+hsc05
+hsc06
+hsc07
